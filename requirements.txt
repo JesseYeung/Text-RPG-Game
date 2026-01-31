@@ -1,0 +1,7 @@
+# 文字RPG游戏依赖
+# Python 3.7+
+
+# GUI需要 tkinter (Python 自带，但某些系统需要单独安装)
+# macOS: brew install python-tk@3.13
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Windows: 通常已内置
